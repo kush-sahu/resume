@@ -1,1 +1,1 @@
-![Resume](resume(2).jpg)
+![Resume](resume(2).png)
